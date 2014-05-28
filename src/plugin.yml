@@ -1,0 +1,20 @@
+name: TurfPoints
+main : io.gearworks.turfpoints.TurfPoints
+version: 0.0.10a
+author: TheDirtyDan
+commands:
+   givecredits:
+      description: This is a demo command.
+      usage: /<command> [player]
+   givepoints:
+      description: This is a demo command.
+      usage: /<command> [player]
+   checkmypoints:
+      description: Will allow an administrator to create one of the many things needed to be setup on the server
+      usage: /create [type]
+   checkmycredits:
+         description: Will allow an administrator to create one of the many things needed to be setup on the server
+         usage: /create [type]
+   verify:
+      description: Will allow an administrator to create one of the many things needed to be setup on the server
+      usage: /create [type]
